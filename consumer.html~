@@ -1,0 +1,50 @@
+<html>
+  <head>
+    <title>Consumer - Atha Gupte</title>
+        <link rel="stylesheet"href="all.css"> 
+    </head>
+    <body>
+        <div class="container">
+			
+			<!-- section title -->
+			<h2 class="section-title wow fadeIn" style="visibility: visible; animation-name: fadeIn;">Consumer pricing</h2>
+
+			<div class="spacer" data-height="60" style="height: 60px;"></div>
+			
+			<div class="card">
+				<div class="content">
+					<div class="price-item bg-white rounded shadow-dark text-center">
+						<h2>Basic Website</h2>
+						<p>Basic Informative Website.Uses vannila JS + HTML & CSS stack</p>
+						<p>no AI , no ML , static website</p>
+						<p>updates at request for <strong>1</strong> month after</p>
+						<p>Pricing Starts From:</p>
+						<h3 class="price">$25</h3>
+					</div>
+				</div>
+			</div>
+			<br>
+			<br>
+			<br>
+			<div class="card">
+			  <div class="content">
+			    <div class="price-item bg-white rounded shadow-dark text-center">
+			      <h2>Intermediate</h2>
+			      <p>same as above , but with nextjs and updates for <strong>2</strong> months</p>
+			      <h3 class="price">$75</h3>
+			    </div>
+			    </div>
+			</div>
+			<div class="card">
+			  <div class="content">
+			    <div id="price-item bg-white rounded shadow-dark text-center">
+			      <h2>Advanced</h2>
+			      <p>all previous benifits + AI/ML + blog , if asked for , alpine.js intergration at request , NEXTJS/HCJ stack choice</p>
+			      <p>update's can be done from file's , ui/ux changes for <strong>4<strong> months</p>
+			      <h3 class="price">$150</h2>
+			    </div> 
+			 </div>  
+                       </div>
+                        <p>prices negiotable</p>
+    </body>
+</html>

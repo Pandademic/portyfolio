@@ -1,0 +1,29 @@
+.top-bar{
+    top:0;
+    background-color: #247BA0;
+}
+.top-bar brand{
+    font-size:32px;
+    right:0;
+    position: sticky;
+}
+.top-bar brand:hover{
+    color:white;
+    text-shadow: 2px 2px grey;
+}
+.top-bar button {
+    font-size:13.125px;
+    text-align:center;
+    line-height:26.25px;
+    letter-spacing:normal;
+    padding:8.96px;
+    border-radius:7.5px;
+}
+.top-bar bg-red{
+    background-color:#EF476F;
+}
+.top-bar img{
+    width:150px;
+    height:150px;
+    border-radius: 50%;
+}
